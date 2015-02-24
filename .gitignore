@@ -1,0 +1,12 @@
+#*
+~*
+*.hi
+*.o
+_cache/
+_site/
+site
+*.org
+cabal*
+.cabal*
+dist
+deploy.sh
